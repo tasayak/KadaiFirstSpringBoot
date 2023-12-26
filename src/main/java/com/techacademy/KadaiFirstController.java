@@ -28,7 +28,7 @@ public class KadaiFirstController {
                 week2="Tuesday";
                 break;
             case WEDNESDAY:
-                week2="Wendnesday";
+                week2="Wednesday";
                 break;
             case THURSDAY:
                 week2="Thursday";
